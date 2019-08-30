@@ -1,0 +1,6 @@
+.idea
+target/**
+project/**
+core/target/**
+service/target/**
+web/target/**
